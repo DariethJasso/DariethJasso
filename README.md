@@ -1,9 +1,6 @@
 # Hola, mi nombre es Darieth Jasso 👋
 ### Ingeniero en Software - Recien Egresado
 
-
-Soy ingeniero de software profesional desde hace más de doce años.
-
 Ingiero de Software recien egresado con capacidad de llevar acabo proyectos de software, trabajar en equipo. Con toda la actitud para seguir aprendiendo y nutriendome de conocimeinto con la experiencia ganada dia con dia. Con conocimeinto para sobre llevar un proyecto web y mobile. Buscando sobresalir con mis habilidades para entregar un excelente trabajo. 
 
 Actualmente reforzando conocimiento en el Desarrollo Web con React.
