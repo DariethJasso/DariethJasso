@@ -20,7 +20,7 @@ Actualmente reforzando conocimiento en el Desarrollo Web con React.
 
 ## Frameworks:
 
-[![React](https://img.shields.io/badge/Reac0095D5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![React](https://img.shields.io/badge/React-0095D5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
 [![TailWindCSS](https://img.shields.io/badge/tailwindcss-0095D5?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
 
 
