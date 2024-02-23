@@ -21,7 +21,7 @@ Actualmente reforzando conocimiento en el Desarrollo Web con React.
 ## Frameworks:
 
 [![React](https://img.shields.io/badge/React-0095D5?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![NextJs](https://img.shields.io/badge/Nextjs-0095D5?style=for-the-badge&logo=nextjs&logoColor=white&labelColor=101010)]()
+[![NextJs](https://img.shields.io/badge/Next-0095D5?style=for-the-badge&logo=next&logoColor=white&labelColor=101010)]()
 [![TailWindCSS](https://img.shields.io/badge/tailwindcss-0095D5?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)]()
 
 
